@@ -10,7 +10,7 @@ translate portuguese extended_game_over_5d5a9fa8:
 translate portuguese extended_game_over_607967c7:
 
     # "Developer" "I want you to have fun with the game, even if that means not playing it in the way I intended."
-    "Developer" "Quero que vocÊ se divirta com o jogo, mesmo que isso signifique não jogar da maneira que eu imaginei."
+    "Developer" "Quero que você se divirta com o jogo, mesmo que isso signifique não jogar da maneira que eu imaginei."
 
 # game/code/data/extended/labels.rpy:9
 translate portuguese extended_game_over_9fb3800a:
