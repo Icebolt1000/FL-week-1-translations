@@ -76,7 +76,7 @@ translate portuguese strings:
 
     # game/code/hints.rpy:5
     old "Gives you 3 points and you think about Min and Antony."
-    new "Dá 3 pontos e você pensa em Min e Anthony."
+    new "Dá 3 pontos e você pensa em Min e Antony."
 
     # game/code/hints.rpy:5
     old "Gives you 2 points and you think about Chloe."
