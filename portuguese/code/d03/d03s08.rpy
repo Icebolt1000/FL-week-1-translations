@@ -448,7 +448,7 @@ translate portuguese d03s08_FL_65229281:
 translate portuguese d03s08_FL_c1fa40af:
 
     # mct "Looks like Min & Antony won again."
-    mct "Parece que Min & Anthony venceram de novo."
+    mct "Parece que Min & Antony venceram de novo."
 
 # game/code/d03/d03s08.rpy:325
 translate portuguese d03s08_FL_4fbb67b5:
