@@ -256,5 +256,5 @@ translate portuguese replay_d06s10_30794d05:
 translate portuguese replay_d06s10_b79140a5:
 
     # "female voice" "asshole."
-    "female voice" "Babaca."
+    "female voice" "babaca."
 
