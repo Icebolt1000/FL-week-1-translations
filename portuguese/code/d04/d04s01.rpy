@@ -28,7 +28,7 @@ translate portuguese d04s01_7b66e4de:
 translate portuguese d04s01_64a66dc3:
 
     # lc "Oh! Morning!"
-    lc "Ah! Bom dia1"
+    lc "Ah! Bom dia!"
 
 # game/code/d04/d04s01.rpy:31
 translate portuguese d04s01_bc9aca56:
